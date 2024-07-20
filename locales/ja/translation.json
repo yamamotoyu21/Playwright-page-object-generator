@@ -1,0 +1,8 @@
+{
+  "generating": "ページオブジェクトを生成中...",
+  "minifying": "HTMLを最小化中...",
+  "generatingInitial": "初期コードを生成中...",
+  "refiningCode": "AIでコードを洗練中...",
+  "generationSuccess": "ページオブジェクトが正常に生成されました",
+  "generationFail": "ページオブジェクトの生成に失敗しました",
+  "currentCode": "現在のコード (バージョン {{version}})"

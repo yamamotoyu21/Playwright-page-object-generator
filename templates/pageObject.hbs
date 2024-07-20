@@ -1,0 +1,11 @@
+import { Page } from '@playwright/test';
+
+export class {{pageName}}Page {
+  constructor(private page: Page) {}
+
+  async visit() {
+    await this.page.goto('{{url}}');
+  }
+
+  // TODO: Add methods for interacting with page elements
+}
